@@ -44,7 +44,7 @@ Java and C++ backend developer
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Apache Maven](https://img.shields.io/badge/Maven-fb99a5?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=qmake&logoColor=white)
+![CMake](https://img.shields.io/badge/QMake-%23008FBA.svg?style=for-the-badge&logo=qmake&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-%23008FBA.svg?color=red&style=for-the-badge&logo=Make&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
